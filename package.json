@@ -13,6 +13,12 @@
   },
   "author": "David Legrand <contact@david-legrand.com> (https://www.david-legrand.com)",
   "license": "ISC",
-  "dependencies": {
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidLegrand/mars-2021.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidLegrand/mars-2021/issues"
+  },
+  "homepage": "https://github.com/DavidLegrand/mars-2021#readme"
 }
