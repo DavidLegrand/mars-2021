@@ -1,0 +1,24 @@
+GET http://localhost:8000/users HTTP/1.1
+content-type: application/json
+
+#####
+POST http://localhost:8000/users HTTP/1.1
+content-type: application/json
+
+{
+    "id": 3,
+    "name": "john"
+}
+
+###
+GET http://localhost:8000/posts HTTP/1.1
+content-type: application/json
+
+#####
+POST http://localhost:8000/posts HTTP/1.1
+content-type: application/json
+
+{
+    "id": 3,
+    "name": "another awesome post"
+}

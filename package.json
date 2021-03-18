@@ -1,0 +1,18 @@
+{
+  "name": "@davidlegrand/mars-2021",
+  "version": "0.0.1",
+  "description": "Ceci est un package de test à visée d'enseignement uniquement",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon",
+    "clus": "nodemon cluster"
+  },
+  "author": "David Legrand <contact@david-legrand.com> (https://www.david-legrand.com)",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
